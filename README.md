@@ -7,7 +7,8 @@ Djangoでのブログアプリ開発のサンプルコードです。
 ・記事閲覧
 ・いいね機能
 
-#Precautions when using
+# Precautions when using
+
 clone後に
 ```
 python manage.py migrate
